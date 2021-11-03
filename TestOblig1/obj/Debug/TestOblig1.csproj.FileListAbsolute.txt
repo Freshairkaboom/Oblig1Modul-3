@@ -1,0 +1,2 @@
+C:\Users\lars_\source\repos\Oblig1\TestOblig1\obj\Debug\TestOblig1.csproj.AssemblyReference.cache
+C:\Users\lars_\source\repos\Oblig1\TestOblig1\obj\Debug\TestOblig1.csproj.CoreCompileInputs.cache

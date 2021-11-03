@@ -1,0 +1,16 @@
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.exe
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.deps.json
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.runtimeconfig.json
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.runtimeconfig.dev.json
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.dll
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\ref\Oblig1.dll
+C:\Users\lars_\source\repos\Oblig1\Oblig1\bin\Debug\net5.0\Oblig1.pdb
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.csproj.AssemblyReference.cache
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.AssemblyInfoInputs.cache
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.AssemblyInfo.cs
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.csproj.CoreCompileInputs.cache
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.dll
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\ref\Oblig1.dll
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.pdb
+C:\Users\lars_\source\repos\Oblig1\Oblig1\obj\Debug\net5.0\Oblig1.genruntimeconfig.cache
